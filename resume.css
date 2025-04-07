@@ -1,0 +1,25 @@
+body{
+font-family:Arial,sans-serif;
+margin-left:40px;
+padding:20px;
+background-color:#f8f9fa;
+}
+.h{
+max-width:600px;
+background:white;
+padding:20px;
+border-radius:10px;
+}
+h1,h2{
+color:#007bff;
+}
+hr{
+border:1 px solid #dd;
+}
+ul{
+padding-left:20px;
+}
+a{
+text-decoration:none;
+color:#007bff;
+}
